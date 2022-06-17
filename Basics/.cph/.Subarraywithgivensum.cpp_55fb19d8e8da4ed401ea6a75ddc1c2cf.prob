@@ -1,0 +1,1 @@
+{"name":"Local: Subarraywithgivensum","url":"c:\\Users\\Jarvis\\Documents\\Coding\\fn&arrays\\Subarraywithgivensum.cpp","tests":[{"id":1627899119017,"input":"5\n1 2 3 7 8\n15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Jarvis\\Documents\\Coding\\fn&arrays\\Subarraywithgivensum.cpp","group":"local","local":true}

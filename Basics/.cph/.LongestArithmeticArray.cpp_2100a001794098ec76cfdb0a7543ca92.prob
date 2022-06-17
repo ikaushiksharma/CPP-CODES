@@ -1,0 +1,1 @@
+{"name":"Local: LongestArithmeticArray","url":"/home/kaushik/coding/fn&arrays/LongestArithmeticArray.cpp","tests":[{"id":1620842701712,"input":"7\n10 7 4 6 8 10 11","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kaushik/coding/fn&arrays/LongestArithmeticArray.cpp","group":"local","local":true}

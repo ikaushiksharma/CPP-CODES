@@ -1,0 +1,1 @@
+{"name":"Local: selectionsort","url":"/home/kaushik/coding/fn&arrays/selectionsort.cpp","tests":[{"id":1620813063370,"input":"5\n2 87 43 98 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kaushik/coding/fn&arrays/selectionsort.cpp","group":"local","local":true}

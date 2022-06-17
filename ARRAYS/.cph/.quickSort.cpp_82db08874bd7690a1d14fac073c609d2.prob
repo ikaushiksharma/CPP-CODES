@@ -1,0 +1,1 @@
+{"name":"Local: quickSort","url":"f:\\CODE\\VS Codes\\ARRAYS\\quickSort.cpp","tests":[{"id":1631293309628,"input":"8\n2 6 4 9 1 7 5 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CODE\\VS Codes\\ARRAYS\\quickSort.cpp","group":"local","local":true}

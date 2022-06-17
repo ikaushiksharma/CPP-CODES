@@ -1,0 +1,1 @@
+{"name":"Local: DNFsort","url":"c:\\Users\\Jarvis\\Documents\\Coding\\ARRAYS\\DNFsort.cpp","tests":[{"id":1630730605251,"input":"8\n1 1 0 1 2 2 1 2 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Jarvis\\Documents\\Coding\\ARRAYS\\DNFsort.cpp","group":"local","local":true}
